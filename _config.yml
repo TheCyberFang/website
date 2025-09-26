@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
+name: Kashyap Patel
+title: Penetration Tester
 email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+website: thekashyappatel.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
