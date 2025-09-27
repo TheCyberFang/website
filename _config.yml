@@ -64,8 +64,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: CySec Project
+        link: github.com/TheCyberFang/CySec_Projects
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -75,9 +75,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          If its repetitive, automate it. If its already automated, make it anways and if its working, don't fix it.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          The GitHub contains bunch of random small scripts I created some time ago. I havem't updated it in quite some time with the recent scripts I use but I will soon enough. :)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
