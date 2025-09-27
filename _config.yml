@@ -98,19 +98,18 @@ content:
             - Providing a professionally written technical report to clients that communicate findigs and their imapct on their system along with the approprite remediations
 
       - layout: left
-        title: CGI Inc.
-        link: cgi.com
+        title: Nova Scotia Community College - NSCC
+        link: nscc.ca
         # link_text: boringcompany.com
-        sub_title: Informations System Specialst
-        caption: April 2022 - Present
+        sub_title: Casual Faculty Member
+        caption: January 2023 - May 2023
         quote: >
-          Assess the risks, protect the business and operate with confidence
+          Transforming Nova Scotia one learner at a time
         description: | # this will include new lines to allow paragraphs
-            - Conducting various Penetration Tests using various frameworks including Penetration Testing Methodology defined in OWASP Foundation, NIST and PTES
-            - Use my knowledge and expertise to assess possible security threats and breaches to a system in order to prevent them and create contingency protocols and plans for when violations occur using various frameworks.
-            - Conducting Security Threat and Risk Assessments using various frameworks like NIST, COBIT, and ISO27001
-            - Develop quality assurance procedures and tests for the development and improvement of new and existing systems
-            - Provide a professionally written technical report to clients that communicate findigs and their imapct on their system along with the approprite remediations
+            - Deliver engaging and industry-relevant lectures on penetration testing, covering topics such as ethical hacking, vulnerability assessment, exploitation techniques, and security tools
+            - Design and assess practical lab exercises and projects that simulate real-world penetration testing scenarios using tools like Metasploit, Nmap, Burp Suite, and others
+            - Stay current with emerging threats, tools, and best practices in cybersecurity to ensure course content remains up-to-date and aligned with industry standards
+            - Provide academic support and mentorship to students and career pathways in ethical hacking and cybersecurity
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
