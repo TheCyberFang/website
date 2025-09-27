@@ -95,9 +95,8 @@ content:
             - Use my knowledge and expertise to assess possible security threats and breaches to a system in order to prevent them and create contingency protocols and plans for when violations occur using various frameworks.
             - Conducting Security Threat and Risk Assessments using various frameworks like NIST, COBIT, and ISO27001
             - Develop quality assurance procedures and tests for the development and improvement of new and existing systems
-            - Provide a professionally written technical report to clients that communicate findigs and their imapct on their system along with the approprite remediations
+            - Providing a professionally written technical report to clients that communicate findigs and their imapct on their system along with the approprite remediations
 
-    content:
       - layout: left
         title: CGI Inc.
         link: cgi.com
